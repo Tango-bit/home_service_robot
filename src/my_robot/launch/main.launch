@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find my_robot)/launch/world.launch" />
+    <include file="$(find my_robot)/launch/mapping.launch" />
+</launch>
