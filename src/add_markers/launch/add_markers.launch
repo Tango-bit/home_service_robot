@@ -1,0 +1,5 @@
+<launch>
+    <!-- Launching a node called add_markers from the add_markers package -->
+    <node name="add_markers" pkg="add_markers" type="add_markers" output="screen"/>
+</launch>
+
