@@ -48,22 +48,24 @@ Custom package containing launch files, robot configurations, and an environment
 1. **Test SLAM**
    ```bash
    ./src/scripts/test_slam.sh
+   ```
 
 2. **Test navigation**
   ```bash
    -/src/scripts/test_navigation.sh
-
+  ```
 3. **Simulate robot pick and drop**
   ```bash
    -/src/scripts/pick_objects.sh
-
+  ```
 4. **Add markers to pick and drop location**
   ```bash
    -/src/scripts/add_markers.sh
-
+  ```
 5. **Simulate virtual object pick and drop**
   ```bash
    -/src/scripts/home_service.sh
+  ```
 
 
 
